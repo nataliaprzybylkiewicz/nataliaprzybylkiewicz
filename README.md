@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm preparing my portfolio with github pages, but there is still a lot of work to do.
 <!--
 **nataliaprzybylkiewicz/nataliaprzybylkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
